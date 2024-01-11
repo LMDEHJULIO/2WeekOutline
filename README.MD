@@ -1,38 +1,38 @@
-# Project: .NET Version of MaterialDocs with Redis Caching
+# Project: .NET Version of MaterialDocs with Redis Caching and MicroService Architecture
 
-## Project Timeline
+## Rest of Week (Jan 10-12)
 
 - **January 10, 2023**:
-  - Created a basic controller and service for my Material Project.
+  - Create a basic controller and service for my Material Project.
 
 - **January 11, 2023**:
-  - Revisited Redis to integrate caching for time-intensive GPT API calls.
+  - Revisit Redis to integrate caching for time-intensive GPT API calls.
 
 - **January 12, 2023**:
-  - Completed an ElasticSearch course (6 hours):
+  - Finish an ElasticSearch course (6 hours):
     [Complete ElasticSearch Masterclass with Kibana and Logstash](https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash).
 
-## Weekend (November 13 - November 14)
+## Weekend (Jan 13 - Jan 14)
 
 Will likely spend any available time trying to really ground myself in C# & Angular. They're still new to me, and I find myself looking up how to do things somewhat frequently.
 
-## Next Week (November 14 - November 19)
+## Next Week (Jan 14 - Jan 19)
 
 - **Material Doc Frontend**:
-  - Created a basic RichText input.
-  - Working on a more useful/interactive UI for documentation, involving Users/Researchers, Comments, Tags, Graphs, and possibly an annotation feature.
-- **Exploring Caching More**.
-- Learning introductory .NET microservices (to work on more in week 2).
-- Figuring out how to integrate ElasticSearch in Demo projects.
+  - Create a basic RichText input.
+  - Work on a more useful/interactive UI for documentation, involving Users/Researchers, Comments, Tags, Graphs, and possibly an annotation feature.
+- Explore Caching More.
+- Learn introductory .NET microservices (to work on more in week 2).
+- Figure out how to integrate ElasticSearch in Demo projects.
 
-## Week 2 (November 22 - November 26)
+## Week 2 (Jan 22 - Jan 26)
 
-- Revisited a DB2 course and tried to configure it successfully (again).
-- Working deeper on .NET Microservices.
-- Looking at how to break down MaterialDocs into services.
-- Completing the configuration of caching for MaterialDocs.
-- Enhancing the UX for looking up Materials (currently done by ID from Material Project).
-- Aiming to have a high-fidelity Angular MVP of the frontend for MaterialDocs by the end of this week.
+- Revisit a DB2 course and try to successfully configure (again).
+- Work deeper on .NET Microservices.
+- Look at how I can break down MaterialDocs into services.
+- Completely configure caching for MaterialDocs.
+- Have a better UX for looking up Materials (currently done by ID from Material Project).
+- Have a high-fidelity Angular MVP of the frontend for MaterialDocs by the end of this week.
 
 ## Resources
 
